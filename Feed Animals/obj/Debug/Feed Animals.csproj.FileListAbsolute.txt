@@ -1,0 +1,7 @@
+C:\Users\Y540\source\repos\Feed Animals\Feed Animals\obj\Debug\Feed Animals.csprojAssemblyReference.cache
+C:\Users\Y540\source\repos\Feed Animals\Feed Animals\obj\Debug\Feed Animals.csproj.CoreCompileInputs.cache
+C:\Users\Y540\source\repos\Feed Animals\Feed Animals\bin\Debug\Feed Animals.exe.config
+C:\Users\Y540\source\repos\Feed Animals\Feed Animals\bin\Debug\Feed Animals.exe
+C:\Users\Y540\source\repos\Feed Animals\Feed Animals\bin\Debug\Feed Animals.pdb
+C:\Users\Y540\source\repos\Feed Animals\Feed Animals\obj\Debug\Feed Animals.exe
+C:\Users\Y540\source\repos\Feed Animals\Feed Animals\obj\Debug\Feed Animals.pdb
